@@ -14,6 +14,13 @@ Para rodar o projeto utilize o comando:
 ```sh
 npm start
 ```
+## DEPLOY
+
+O deloy do projeto pode ser encontrado no link:
+
+```sh
+https://super-trunfo-six.vercel.app/
+```
 
 ## PROJETO CURSO TRYBE
 
