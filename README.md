@@ -19,17 +19,15 @@ npm start
 O deloy do projeto pode ser encontrado no link:
 
 ```sh
-https://trybetunes-iota.vercel.app/
+https://super-trunfo-six.vercel.app/
 ```
 
 ## PROJETO CURSO TRYBE
 
-Realizada uma página em que é possível buscar por suas músicas favoritas através da API do iTunes.
+Realizada uma página que simula um formulário encontrado em sites. É possível preencher os campos do formulário para criar uma carta de super trunfo.
 
 • JavaScript
 
 • React.js
 
 • CSS
-
-• API
